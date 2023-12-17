@@ -66,7 +66,7 @@ Average Word Length is calculated by the formula:
 
 1. Clone the project 
 ```
-git clone https://github.com/aashaybelekar/scraping_and_linguistic_analytics.git
+git clone https://github.com/aashaybelekar/scraping_sentimental_and_linguistic_analytics.git
 ```
 2. Install dependencies 
 ```
